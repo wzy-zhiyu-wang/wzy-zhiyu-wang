@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wzy-zhiyu-wang.github.io/sitemap.xml
