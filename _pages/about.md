@@ -1,17 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MPhil Advanced Computer Science @ <a href='https://www.cam.ac.uk/'>University of Cambridge</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p># Download my CV</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +19,23 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+👋 Hello! I’m thrilled you’re here. Here’s a snapshot of my journey so far:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Current
+I’m an MPhil candidate in Advanced Computer Science at [University of Cambridge](https://www.cam.ac.uk/), where I’m developing **topological neural network** architectures for protein structure representation under the supervision of [Prof. Pietro Liò](https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en).
+
+#### Background
+I graduated with First-Class Honours in BSc Computer Science from [University College London](https://www.ucl.ac.uk/). During my time there, I:
+
+- Built an **ML-based remote patient monitoring** system under the supervision of [Prof. Ivana Drobnjak](https://scholar.google.com/citations?hl=en&user=55BI2VIICu8C&view_op=list_works&sortby=pubdate).
+- Interned as a Machine Learning Engineer at [Xunfei Healthcare](https://www.xunfeihealthcare.com/en/about.html), where I designed a framework to generate synthetic datasets for healthcare **LLM instruction-tuning**.
+
+#### Research Interests
+My passion lies at the crossroads of **geometric deep learning** and **large language models**. I’m dedicated to creating novel ML methods that address pressing biomedical and healthcare challenges. I welcome opportunities to collaborate on innovative, high-impact projects!
