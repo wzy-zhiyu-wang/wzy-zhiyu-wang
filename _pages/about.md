@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p># Download my CV</p>
+    <a href='assets/pdf/example_pdf.pdf' target="_blank" rel="noopener noreferrer" class="float-right"># Download my CV</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,10 +29,10 @@ announcements:
 👋 Hello! I’m thrilled you’re here. Here’s a snapshot of my journey so far:
 
 #### Current
-I’m an MPhil candidate in Advanced Computer Science at [University of Cambridge](https://www.cam.ac.uk/), where I’m developing **topological neural network** architectures for protein structure representation under the supervision of [Prof. Pietro Liò](https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en).
+I’m an M.Phil. candidate in Advanced Computer Science at [University of Cambridge](https://www.cam.ac.uk/), where I’m developing **topological neural network** architectures for protein structure representation under the supervision of [Prof. Pietro Liò](https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en).
 
 #### Background
-I graduated with First-Class Honours in BSc Computer Science from [University College London](https://www.ucl.ac.uk/). During my time there, I:
+I graduated with First-Class Honors in B.Sc. Computer Science from [University College London](https://www.ucl.ac.uk/). During my time there, I:
 
 - Built an **ML-based remote patient monitoring** system under the supervision of [Prof. Ivana Drobnjak](https://scholar.google.com/citations?hl=en&user=55BI2VIICu8C&view_op=list_works&sortby=pubdate).
 - Interned as a Machine Learning Engineer at [Xunfei Healthcare](https://www.xunfeihealthcare.com/en/about.html), where I designed a framework to generate synthetic datasets for healthcare **LLM instruction-tuning**.
