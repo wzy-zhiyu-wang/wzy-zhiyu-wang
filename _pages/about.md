@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href='assets/pdf/example_pdf.pdf' target="_blank" rel="noopener noreferrer" class="float-right"># Download my CV</a>
+    <a href='assets/pdf/Zhiyu_Wang_CV.pdf' target="_blank" rel="noopener noreferrer" class="float-right"># Download my CV</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

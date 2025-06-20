@@ -49,7 +49,7 @@
     {
       "name": "Xunfei Healthcare Technology",
       "location": "Hefei, China",
-      "position": "Algorithm Engineer",
+      "position": "Machine Learning Engineer",
       "url": "https://www.xunfeihealthcare.com/en/about.html",
       "startDate": "2024-07",
       "endDate": "2024-09",
@@ -58,7 +58,7 @@
     },{
       "name": "Luojin Data Information",
       "location": "Shanghai, China",
-      "position": "Algorithm Engineer",
+      "position": "Machine Learning Engineer",
       "url": "https://pitchhub.36kr.com/project/2180550044503169",
       "startDate": "2023-05",
       "endDate": "2023-08",
@@ -132,6 +132,34 @@
       ]
     }
   ],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "Geometric Deep Learning",
+        "Large Language Models",
+        "AI for Science",
+        "AI for Healthcare"
+      ]
+    },{
+      "name": "Biology",
+      "icon": "fa-solid fa-dna",
+      "keywords": [
+        "Protein Design",
+        "Drug Development",
+        "Single-cell Sequencing"
+      ]
+    },{
+      "name": "Healthcare",
+      "icon": "fa-solid fa-heart-circle-check",
+      "keywords": [
+        "Electronic Health Records",
+        "Physical Signals",
+        "Precision Health"
+      ]
+    }
+  ],
   "certificates": [
     {
       "name": "Build Your Own Chatbot",
@@ -151,33 +179,6 @@
       "language": "English",
       "fluency": "Full professional proficiency",
       "icon": "fa-solid fa-earth-americas"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Computer Science",
-      "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Geometric Deep Learning",
-        "Large Language Models",
-        "AI for Science",
-        "AI for Healthcare"
-      ]
-    },{
-      "name": "Biology",
-      "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Protein Design",
-        "Drug Development"
-      ]
-    },{
-      "name": "Healthcare",
-      "icon": "fa-solid fa-heart-circle-check",
-      "keywords": [
-        "Electronic Health Records",
-        "Physical Signals",
-        "Precision Health"
-      ]
     }
   ],
   "projects": []
